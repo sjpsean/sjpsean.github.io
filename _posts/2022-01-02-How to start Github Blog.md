@@ -2,7 +2,7 @@
 layout: single
 title:  "How to start Github Blog"
 categories: Github-Blog
-tags: git TIL blog githubblog jekyll githubpages
+tags: git TIL blog github jekyll githubpages
 ---
 
 # How to blog using Github Pages
