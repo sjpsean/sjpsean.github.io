@@ -5,8 +5,6 @@ categories: Github-Blog
 tags: git TIL blog github jekyll githubpages
 ---
 
-# How to blog using Github Pages
-
 ### How Github Pages works
 
 As you can see in this [video](https://youtu.be/2MsN8gpT6jY), your Github Page is just a website using a repository in your account as a server.  
