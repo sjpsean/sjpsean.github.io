@@ -7,7 +7,11 @@ tags: TIL Big-O Algorithms
 
 ### Why do we need Big-O notation?
 
-To scale the quality of code by seeing **number of operations (or the degree of increase) that are needed when the elements (or input) increases.**
+> To scale the quality of code by seeing **number of operations (or the degree of increase) that are needed when the elements (or input) increases.**
+
+or in other words..
+
+> To analyze **how many steps a program will take (the performance behavior of an algorithm) with regards to an increasing amount of input.**
 
 <!-- ![big-o_complexity_chart]({{ site.url }}{{ site.baseurl }}/assets/images/big-o_complexity_chart.jpeg){: .fill} -->
 
@@ -22,7 +26,7 @@ To scale the quality of code by seeing **number of operations (or the degree of 
 ## O(n)
 
 In the other word, Linear time.  
-Basically, O(n) means a big-O for **a function or an algorithm that operates one time per one element.**
+> Basically, O(n) means a big-O for **a function or an algorithm that operates one time per one element.**
 
 For example,
 
