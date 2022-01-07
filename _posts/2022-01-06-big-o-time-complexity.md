@@ -1,10 +1,16 @@
 ---
 layout: single
-title:  "Big-O Notations"
+title:  "Big-O Notations (Time Complexity)"
 categories: Algorithms
 tags: TIL Big-O Algorithms
 ---
-All Big-O Notations
+Big-O Notations for Time Complexity
+
+- What causes time complexity?
+    - Operations (+, -, *, /)
+    - Comparisons (<, >, ==)
+    - Looping (for, while)
+    - Outside function call (function())
 
 ## O(n)
 
