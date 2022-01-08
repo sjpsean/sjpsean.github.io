@@ -9,11 +9,11 @@ tags: git TIL blog github jekyll githubpages
 
 As you can see in this [video](https://youtu.be/2MsN8gpT6jY), your Github Page is just a website using a repository in your account as a server.  
 We can maintain our website using the same tools we used in Github.  
-And for those who don't want to build the whole website on their own, Github provided Jekyll themes so that we can only focus on what to write rather than how.
+And for those who don't want to build the whole website on their own, Github provides Jekyll themes so that we can only focus on what to write rather than how.
 <br>
 <br>
 ### How to use Jekyll to set up my own blog on Github.
-Instead of starting from the ground, use Jekyll to build simple and good looking blog. 
+Instead of starting from the ground, use Jekyll to build a simple good looking blog. 
 
 - **Go to [https://jekyllthemes.io/](https://jekyllthemes.io/) and pick a theme you want.**
 
@@ -26,7 +26,7 @@ Now, the whole repository is copied under your account.
 
 - **Change name of the repository.**
 1. Click on the repository you just forked.
-2. Go to ‘Settings’ tab and change Repository name to `your_username.github.io`. (replace your_username to your Github username. You can’t user any other name than your Github username)
+2. Go to the ‘Settings’ tab and change Repository name to `your_username.github.io`. (replace your_username to your Github username. You can’t user any other name than your Github username)
 3. Now, find _config.yml file and click on ‘edit this file’ button.
 4. Find `url :`  and change it to `url : "https://your_username.github.io"` 
 

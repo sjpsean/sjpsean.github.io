@@ -15,7 +15,7 @@ Big-O notations for Space Complexity
 
 ## O(1)
 
-The function doesn’t add more spaces.
+The function doesn’t add more space.
 
 For example,
 
