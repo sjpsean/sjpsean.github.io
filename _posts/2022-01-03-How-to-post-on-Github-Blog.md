@@ -16,7 +16,7 @@ You can check this information from [Jekyll website](https://jekyllrb.com/docs/p
 - **Write `_post/2022-01-03-title.md` (year, month, day and title can be replaced) for the name of the file.**
 
 Another important thing is a [Front Matter](https://jekyllrb.com/docs/front-matter/)
-According to the website it, "Any file that contains a [YAML]([https://yaml.org/](https://yaml.org/)) front matter block will be processed by Jekyll as a special file."
+According to the website, "Any file that contains a [YAML]([https://yaml.org/](https://yaml.org/)) front matter block will be processed by Jekyll as a special file."
 
 For example, this YAML code is written at the very beginning of this post.
 

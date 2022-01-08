@@ -14,7 +14,7 @@ Big-O Notations for Time Complexity
 
 ## O(n)
 
-- Linear time - number of operation increases linearly as number of input increases.
+- Linear time - number of operations increases linearly as number of input increases.
 
 Basically, **a function or an algorithm that operates one time per one element.**
 
@@ -35,11 +35,11 @@ function findNemo(array) {
 findNemo(large);  // O(n) - Linear Time
 ```
 
-This function finds ‘nemo’ in the array and operates one time for every element in the array to check if that one is ‘nemo’ or not : `arrray[i] === 'nemo'`. So, we can say it's Big-O is O(n).
+This function finds ‘nemo’ in the array and operates one time for every element in the array to check if that one is ‘nemo’ or not : `arrray[i] === 'nemo'`. So, we can say its Big-O is O(n).
 
 ## O(1)
 
-- Constant time - number of operation is a constant that doesn’t change.
+- Constant time - number of operations is a constant that doesn’t change.
 
 For example,
 
@@ -53,14 +53,14 @@ function logFirstTwoBoxes(boxes) {
 }
 
 logFirstTwoBoxes(large); // O(1) - Constant time
-// no matter how big the array(or any kind of input) gets, the number of operation will be the same.
+// no matter how big the array(or any kind of input) gets, the number of operations will be the same.
 ```
 
 This function will have three console logs `boxes[0], boxes[1], boxes[2]` no matter how big the input `boxes` get.
 
 ## O(n^2)
 
-- Quadratic time - number of operation increases quadratically.
+- Quadratic time - number of operations increases quadratically.
 
 Most of the time, this is because there is a **nested for loop**.
 
