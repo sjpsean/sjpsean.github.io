@@ -2,7 +2,8 @@
 layout: single
 title:  "Example question using the interview tips"
 categories: journal
-tags: blog journal interview
+tags: 
+    - [blog, journal, interview]
 ---
 Google interview question practice.  
 Same question and process as this [video](https://youtu.be/XKu_SEDAykw).
