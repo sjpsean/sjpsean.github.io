@@ -1,8 +1,10 @@
 ---
 layout: single
 title:  "How to post on Github Blog"
-categories: Github-Blog
-tags: git TIL blog github jekyll githubpages
+categories: 
+    - Github Blog
+tags: 
+    - [git, TIL, blog, github, jekyll, github pages]
 ---
 
 ### How posting works in Jekyll
@@ -27,6 +29,15 @@ title:  "How to Post on Github Blog"
 categories: Github-Blog
 tags: git TIL blog github jekyll githubpages
 ---
+
+# You can follow this form if you want to use two words or more as a name of your category or tags. 
+---
+layout: single
+title:  "Data Structures - What is it?"
+categories: 
+    - Data Structures
+tags: 
+    - [TIL, Big-O, Algorithms, Data Structures]
 ```
 
 More things can be written between those two `---` lines. You can read more about what you can set up for your post using Front Matter [here](https://jekyllrb.com/docs/front-matter/)

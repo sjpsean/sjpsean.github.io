@@ -1,14 +1,20 @@
 main:
+
+  - title: "Categories"
+    url: /categories-grid/
+  - title: "Tags"
+    url: /tags-grid/
+  - title: "Posts"
+    url: /year-archive-grid/
+    description: "posts for each year" #hover tooltip
+  # - title: "Collections"
+  #   url: /collection-archive/  
+  - title: "Search"
+    url: /search/
   - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /docs/quick-start-guide/
+
+    
   
 # docs:
 #   - title: Getting Started

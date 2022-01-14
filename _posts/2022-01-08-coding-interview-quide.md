@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Coding Interview Plan"
-categories: journal
+categories: Journal
 tags: blog journal interview
 ---
 

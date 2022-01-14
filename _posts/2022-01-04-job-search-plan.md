@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "스펙 쌓기"
-categories: journal
+categories: Journal
 tags: blog journal 
 ---
 
