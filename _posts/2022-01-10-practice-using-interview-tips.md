@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Example question using the interview tips"
-categories: journal
+categories: Journal
 tags: 
     - [blog, journal, interview]
 ---

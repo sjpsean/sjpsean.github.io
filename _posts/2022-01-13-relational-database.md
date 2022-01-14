@@ -6,7 +6,6 @@ categories:
 tags: 
     - [Dictionary, database, relational database]
 ---
-# Relational Database
 
 
 [https://www.ibm.com/cloud/learn/relational-databases](https://www.ibm.com/cloud/learn/relational-databases)
