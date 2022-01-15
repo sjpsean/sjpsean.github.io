@@ -22,7 +22,7 @@ commonly used categories :
 - **Networking**
     - **VPC**(Virtual Private Cloud) - able to launch AWS resources in a logically isolated virtual network.
     - **CloudFront** - Content Delivery Network(CDN). Delivers data, videos app, and APIs to customers. High transfer speeds.
-    - **Route53** - cloud Doman Name System(DNS). Traslate names like www.example.com to IP addresses.
+    - **Route53** - cloud [Doman Name System(DNS)](/dictionary/dns/). Traslate names like www.example.com to IP addresses.
 - **Security**
     - **IAM**(Identity and Access Management) - manage access to AWS services and resources securely.
 
