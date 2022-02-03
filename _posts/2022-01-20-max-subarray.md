@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Array Question - Maximum Subarray"
+title:  "Array Question - maximum subarray"
 categories: 
     - Data Structures
 tags: 
