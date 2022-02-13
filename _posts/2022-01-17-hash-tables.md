@@ -7,7 +7,6 @@ tags:
     - [TIL, Big-O, Algorithms, Data Structures, Hash Tables, Map, Hash, Object]
 ---
 ## What is a Hash Table?
-Hash table is like 
 
 ### Hash table in different languages
 
