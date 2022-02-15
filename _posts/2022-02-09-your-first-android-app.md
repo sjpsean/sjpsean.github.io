@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Your first android application"
+title:  "1.Your first android application"
 categories: 
     - Android
 tags: 
@@ -11,7 +11,7 @@ tags:
 # 1. Your First Android Application
 
 <figure class="half">
-    <a href="/assets/images/array-shelf.jpg"><img src="/assets/images/android/geoquiz.png"></a>
+    <a href="/assets/images/android/geoquiz.png"><img src="/assets/images/android/geoquiz.png"></a>
 </figure>
 
 ### GeoQuiz (지리퀴즈 어플)
@@ -39,7 +39,7 @@ GeoQuiz 프로젝트는 Activity 클래스의 subclass를 하나만 만들어서
 - XML 형식으로 쓰여진다.
 
 <figure class="half">
-    <a href="/assets/images/array-shelf.jpg"><img src="/assets/images/android/mainActivity.png"></a>
+    <a href="/assets/images/android/mainActivity.png"><img src="/assets/images/android/mainActivity.png"></a>
 </figure>
 
 MainActivity 라는 Activity가 activity_main.xml 이라는 layout 파일에서 보여지는 UI 오브젝트들에 알맞은 상호작용을 책임진다.
@@ -65,10 +65,10 @@ MainActivity 라는 Activity가 activity_main.xml 이라는 layout 파일에서 
 </aside>
 
 <figure class="half">
-    <a href="/assets/images/array-shelf.jpg"><img src="/assets/images/android/constraint-layout.png"></a>
+    <a href="/assets/images/android/constraint-layout.png"><img src="/assets/images/android/constraint-layout.png"></a>
 </figure>
 <figure class="half">
-    <a href="/assets/images/array-shelf.jpg"><img src="/assets/images/android/linear-layout.png"></a>
+    <a href="/assets/images/android/linear-layout.png"><img src="/assets/images/android/linear-layout.png"></a>
 </figure>
 
 ConstraintLayout은 ViewGroup이고, TextView는 거기에 속해있는 자녀이다.
@@ -81,7 +81,7 @@ GeoQuiz에서 필요한 widgets들
 - two Buttons
 
 <figure class="half">
-    <a href="/assets/images/array-shelf.jpg"><img src="/assets/images/android/layout-map.png"></a>
+    <a href="/assets/images/android/layout-map.png"><img src="/assets/images/android/layout-map.png"></a>
 </figure>
 
 - 박스안에 있는것들을 attributes라고 한다.
