@@ -56,6 +56,24 @@ Reference to something else in memeory. In other words, it works as an address o
     no problem on memory, good operation on searching.
     
 
+### Pros
+
+- Fast **Insertions**
+- Fast **Deletion**
+- Ordered
+- Felxible Size
+
+### **Cons**
+
+- Slow **lookup**
+- More memory is needed
+
+Why choose linked list? - Simplicity and ability to grow and shrink.
+
+Where it’s used? - file systems, browser history
+
+
+
 example of implementing a singly linked list:
 
 ```jsx
