@@ -12,6 +12,36 @@ Big-O Notations for Time Complexity
     - Looping (for, while)
     - Outside function call (function())
 
+## O(1)
+
+- Constant time - number of operations is a constant that doesn’t change.
+
+For example,
+
+```jsx
+const large = new Array(100).fill('element');
+
+function logFirstTwoBoxes(boxes) {
+	console.log(boxes[0]);
+	console.log(boxes[1]);
+	console.log(boxes[2]);
+}
+
+logFirstTwoBoxes(large); // O(1) - Constant time
+// no matter how big the array(or any kind of input) gets, the number of operations will be the same.
+```
+
+This function will have three console logs `boxes[0], boxes[1], boxes[2]` no matter how big the input `boxes` get.
+
+
+## O(log n)
+
+- Number of elements to lookup gets divided by half for each operation.
+- Binary Search Tree's lookup speed.
+
+Think of a **phonebook**. We don’t need to check every elements. We can only check if the name could be on the next pages or the pages before. After decision is made, we don’t need to consider the pages that will not have the name we are finding.
+
+
 ## O(n)
 
 - Linear time - number of operations increases linearly as number of input increases.
@@ -37,26 +67,6 @@ findNemo(large);  // O(n) - Linear Time
 
 This function finds ‘nemo’ in the array and operates one time for every element in the array to check if that one is ‘nemo’ or not : `arrray[i] === 'nemo'`. So, we can say its Big-O is O(n).
 
-## O(1)
-
-- Constant time - number of operations is a constant that doesn’t change.
-
-For example,
-
-```jsx
-const large = new Array(100).fill('element');
-
-function logFirstTwoBoxes(boxes) {
-	console.log(boxes[0]);
-	console.log(boxes[1]);
-	console.log(boxes[2]);
-}
-
-logFirstTwoBoxes(large); // O(1) - Constant time
-// no matter how big the array(or any kind of input) gets, the number of operations will be the same.
-```
-
-This function will have three console logs `boxes[0], boxes[1], boxes[2]` no matter how big the input `boxes` get.
 
 ## O(n^2)
 
