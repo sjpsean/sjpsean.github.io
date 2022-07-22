@@ -192,3 +192,5 @@ mTrueButton.setOnClickListener(new View.OnClickListener() {
 ```
 
 Toast라고 화면에 뿅나왔다가 사라지는 알림 같은건데, 버튼을 눌렀을 때 그게 나오도록 한것이다. `public static Toast makeText(Context context, int resId, int duration)` 이렇게 구성된 메소드를 쓴것이다. Context는 Activity의 부모 클래스 이고 이상황에선 this가 View.OnClickListener을 뜻하기 때문에 MainActivity.this로 Context를 정해준다.
+
+더 읽기 - [자바의 인터페이스](https://www.scaler.com/topics/java/interface-in-java/)
