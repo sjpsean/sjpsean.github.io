@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title:  "Algorithms - Primality Test"
 categories: 
     - Algoritms
