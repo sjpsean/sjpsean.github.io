@@ -1,7 +1,7 @@
 ---
-layout: single
-classes: wide
 title:  "Algorithms - Primality Test"
+classes: wide
+excerpt: project from algorithm class - primality test
 categories: 
     - Algoritms
 tags: 
